@@ -1,0 +1,23 @@
+{
+  "name": "wallbox-sdk",
+  "version": "0.1.0",
+  "description": "A tool for creating and managing a BCH wallet",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "goo?"
+  },
+  "keywords": [
+    "bitcoin",
+    "bch",
+    "Bitcoin Cash",
+    "wallet"
+  ],
+  "author": "Max Hastings",
+  "license": "MIT",
+  "dependencies": {
+    "bip32-utils": "^0.11.1",
+    "bitcoinjs-lib": "^5.1.6",
+    "slp-sdk": "^4.11.0"
+  }
+}
