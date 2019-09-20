@@ -1,0 +1,7 @@
+node_modules
+utxos.txt
+Seed.txt
+watchedAddresses.txt
+.vscode
+package-lock.json
+.DS_Store
