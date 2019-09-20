@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "goo?"
+    "url": "https://github.com/MaxHastings/wallbox-sdk.git"
   },
   "keywords": [
     "bitcoin",
