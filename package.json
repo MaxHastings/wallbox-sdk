@@ -17,7 +17,6 @@
   "license": "MIT",
   "dependencies": {
     "bip32-utils": "^0.11.1",
-    "bitcoinjs-lib": "^5.1.6",
-    "slp-sdk": "^4.11.0"
+    "bitcoinjs-lib": "^5.1.6"
   }
 }
