@@ -22,7 +22,8 @@ let wallbox = require("wallbox-sdk")(SLP, "testnet");
     let address = await Wallet.getfreshAddress()
 
     let options = {message: "Hello BCH Blockchain!", feePerByte: 1}
-    await Wallet.send(address, 100000, options)
+    let txId = await Wallet.send(address, 100000, options)
+    console.log("TX ID: " + txId)
     let balance = await Wallet.getWalletBalance()
     console.log("Balance = " + balance + " BCH")
   }catch(error){
