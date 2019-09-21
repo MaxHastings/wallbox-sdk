@@ -1,6 +1,6 @@
 {
   "name": "wallbox-sdk",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "A tool for creating and managing a BCH wallet",
   "main": "lib/index.js",
   "repository": {
